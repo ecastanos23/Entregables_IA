@@ -6,10 +6,10 @@ Este es el repositorio central de los entregables para el curso de Inteligencia 
 
 El desarrollo de estos entregables es un trabajo colaborativo realizado por:
 
-*   **Emmanuel Castaño Sepúlveda**
-*   **Santiago Meneses (0347)**
-*   **Juan Jose Alvarez (0347)**
-*   **Cristian Bolaños (0347)**
+*   **Emmanuel Castaño Sepúlveda (4859)**
+*   **Santiago Meneses (4543)**
+*   **Juan Jose Alvarez (4543)**
+*   **Cristian Bolaños (4543)**
 
 ## Contenido del Repositorio
 
